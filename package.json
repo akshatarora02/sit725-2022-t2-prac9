@@ -1,7 +1,7 @@
 {
-  "name": "sit725-2022-t1-prac7",
+  "name": "sit725-2022-t1-prac9",
   "version": "1.0.0",
-  "description": "week 7 prac for SIT 725 2022",
+  "description": "week 9 prac for SIT 725 2022",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akshatarora02/sit725-2022-t2-prac7.git"
+    "url": "git+https://github.com/akshatarora02/sit725-2022-t2-prac9.git"
   },
   "keywords": [
     "Express",
@@ -18,9 +18,9 @@
   "author": "Akshat Arora",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/akshatarora02/sit725-2022-t2-prac7/issues"
+    "url": "https://github.com/akshatarora02/sit725-2022-t2-prac9/issues"
   },
-  "homepage": "https://github.com/akshatarora02/sit725-2022-t2-prac7#readme",
+  "homepage": "https://github.com/akshatarora02/sit725-2022-t2-prac9#readme",
   "dependencies": {
     "chai": "^4.3.6",
     "cors": "^2.8.5",
